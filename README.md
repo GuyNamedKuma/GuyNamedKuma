@@ -1,16 +1,27 @@
-## Hi there 👋
+# hey, I'm Kuma 👾
 
-<!--
-**GuyNamedKuma/GuyNamedKuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm diving into the world of cybersecurity — learning how systems break so I can understand how to protect them.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 currently learning
+- Networking fundamentals (TCP/IP, DNS, HTTP)
+- Linux & the command line
+- How common vulnerabilities work
+
+### 🔭 goals
+- [ ] Build a solid foundation in security concepts
+- [ ] Complete my first CTF challenge
+- [ ] Earn my first certification
+
+### 🛠️ tools I'm getting comfortable with
+`Linux` `Wireshark` `Nmap` `Kali Linux`
+
+---
+
+### 📖 about this space
+This GitHub is my learning journal — a place to track progress, share notes, and build things as I grow. Still early days, but everyone starts somewhere.
+
+---
+
+*"The expert in anything was once a beginner."*
