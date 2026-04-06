@@ -1,4 +1,4 @@
-# hey, I'm Kuma 👾
+# Hey, I'm Kuma 👾
 
 I'm diving into the world of cybersecurity — learning how systems break so I can understand how to protect them.
 
@@ -16,7 +16,7 @@ I'm diving into the world of cybersecurity — learning how systems break so I c
 - [ ] Complete First BugBounty
 
 ### 🛠️ tools I'm getting comfortable with
-`Linux` `Wireshark` `Nmap` `Kali Linux` `BurpSuite` `Python Scripting`  
+`Linux` `Wireshark` `Nmap` `Kali Linux` `BurpSuite` `Python Scripting` `Bad USB`
 
 ---
 
