@@ -13,9 +13,10 @@ I'm diving into the world of cybersecurity — learning how systems break so I c
 - [ ] Build a solid foundation in security concepts
 - [ ] Complete my first CTF challenge
 - [ ] Earn my first certification
+- [ ] Complete First BugBounty
 
 ### 🛠️ tools I'm getting comfortable with
-`Linux` `Wireshark` `Nmap` `Kali Linux`
+`Linux` `Wireshark` `Nmap` `Kali Linux` `BurpSuite` `Python Scripting`  
 
 ---
 
