@@ -1,6 +1,6 @@
 # Hey, I'm Finn
 
-I'm a Computer Science student at UW-Madison and an IT & Network Intern. I'm passionate about cybersecurity, network infrastructure, and building scalable self-hosted environments.
+I'm a Computer Science student at UW-Madison. I'm passionate about cybersecurity, network infrastructure, and building scalable self-hosted environments.
 
 ---
 
