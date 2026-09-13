@@ -1,28 +1,29 @@
-# Hey, I'm Kuma 👾
+# Hey, I'm Finn
 
-I'm diving into the world of cybersecurity — learning how systems break so I can understand how to protect them.
-
----
-
-### 🌱 currently learning
-- Networking fundamentals (TCP/IP, DNS, HTTP)
-- Linux & the command line
-- How common vulnerabilities work
-
-### 🔭 goals
-- [ ] Build a solid foundation in security concepts
-- [ ] Complete my first CTF challenge
-- [ ] Earn my first certification
-- [ ] Complete First BugBounty
-
-### 🛠️ tools I'm getting comfortable with
-`Linux` `Wireshark` `Nmap` `Kali Linux` `BurpSuite` `Python Scripting` `Bad USB`
+I'm a Computer Science student at UW-Madison and an IT & Network Intern. I'm passionate about cybersecurity, network infrastructure, and building scalable self-hosted environments.
 
 ---
 
-### 📖 about this space
-This GitHub is my learning journal — a place to track progress, share notes, and build things as I grow. Still early days, but everyone starts somewhere.
+### Currently Exploring
+- **Home Lab Infrastructure:** Deploying and managing services via Linux and Docker (Jellyfin, VPNs, network-wide ad blockers).
+- **Cybersecurity & Bug Bounties:** Hunting for web vulnerabilities, participating in CTFs, and studying modern attack vectors.
+- **Local AI:** Running and optimizing local LLMs for workflow automation.
+- **Network Design:** Applying advanced networking concepts (FBLA National Qualifier).
+
+### Tech Stack & Tools
+- **Languages:** `Python` `C++` `Java` `JavaScript`
+- **Infrastructure:** `Linux` `Docker` `Git` `VPNs` `System Administration`
+- **Security:** `Wireshark` `Nmap` `Kali Linux` `BurpSuite` `Bad USB`
+
+### Milestones & Achievements
+- **1st Place** – MSOE Coding Competition
+- **2nd Place** – Marquette University Coding Competition
+- **2x National Qualifier (FBLA)** – Network Design (2025) & Intro to Programming (2024)
+
+### Current Goals
+- [ ] Complete my first major Bug Bounty submission
+- [ ] Expand my Docker home lab setup with new custom services
+- [ ] Earn my first major security certification (e.g., Security+, Network+)
 
 ---
-
 *"The expert in anything was once a beginner."*
